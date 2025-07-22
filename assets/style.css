@@ -8,3 +8,6 @@ p{
 .edit1{
     color: red;
 }
+.edit1:hover{
+    scale: 1.1;
+}
